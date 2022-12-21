@@ -52,6 +52,13 @@
 - **Understand the importance of UX.**
 - **Understand how to parse a Figma design to create a UI.**
 - **Understand how to create UIs adaptable to different screen sizes using media queries.**
+- **Use GitHub Pages to deploy web pages.**
+- **Demonstrate ability to ask clarifying questions about ambiguous requirements.**
+- **Use basic JavaScript syntax.**
+- **Use JavaScript to manipulate DOM elements.**
+- **Use JavaScript events.**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,8 +66,11 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+Enjoy this proyect 😃
 
-- Coming soon.😃
+- https://nkaleth.github.io/
+- Also you can watch an small presentation about it:
+https://www.loom.com/share/3775af48e28044be9d03a132100fe8a0
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +86,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - Clone this repo
-- Go to the Desktop-version branch.
+- Go to the mobile_menu branch.
 - Open the index.html file in your browser
 - Enjoy it. 😃
 
@@ -97,7 +107,16 @@ In order to run this project you need:
 
 - GitHub: [@Grandi0z](https://github.com/Grandi0z)
 - Twitter: [@Wa_inje](https://twitter.com/wa_inje)
+
+👤 **Alejandro Maggioni**
+
+- GitHub: [@githubhandle](https://github.com/alex1779/)
+- Twitter: [@twitterhandle](https://twitter.com/alex1779)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-maggioni-086678b5/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- FUTURE FEATURES -->
 
